@@ -1,7 +1,7 @@
 # BharathInternTask2 Quiz Application
 This is all about my Internship project - 2
 
-pre - requisites for Create such applications:
+Pre - requisites for Creating such Application:
 1)  Java and its Oops knowledge
 2)  Basic problem solving ability.  
 3)  Basic Android Knowledge.
